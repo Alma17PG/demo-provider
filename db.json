@@ -3,5 +3,13 @@
     { "id": "ABCEWSXGEER", "name": "Maria" },
     { "id": "CBBAERWETAS", "name": "Lourdes" },
     { "id": "ASWERRT3563", "name": "Oscar" }
+  ],
+   "catalogs": [
+    { "id": "QWE3446SFG5", "name": "Verano-Otoño", userId: "ABCEWSXGEER" },
+    { "id": "QWE3446SFG5", "name": "Verano-Otoño", userId: "CBBAERWETAS" },
+    { "id": "AAA345GG546", "name": "Otoño-Invierno", userId: "ABCEWSXGEER" },
+    { "id": "AAA345GG546", "name": "Otoño-Invierno", userId: "ASWERRT3563" },
+    { "id": "LIT465EDF3F", "name": "Invierno-Primavera", userId: "ABCEWSXGEER" },
+    { "id": "LIT465EDF3F", "name": "Invierno-Primavera", userId: "CBBAERWETAS" }
   ]
 }

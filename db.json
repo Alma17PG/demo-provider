@@ -11,5 +11,13 @@
     { "id": "AwEICAEPDgECCwoJBAENAw", "name": "Otoño-Invierno", "userId": "ASWERRT3563" },
     { "id": "LIT465EDF3F", "name": "Invierno-Primavera", "userId": "ABCEWSXGEER" },
     { "id": "AwEICAEPDgECCwoJBAENA1", "name": "Invierno-Primavera", "userId": "CBBAERWETAS" }
+  ],
+"score": [
+    { "id": "QWE3446SFG5", "score": "71", "mark": "A1", "years": "4", "request": "2", "open": "1" },
+    { "id": "QWE3446SFG5", "score": "60", "mark": "B1", "years": "3", "request": "2", "open": "3" },
+    { "id": "AAA345GG546", "score": "45", "mark": "C1", "years": "14", "request": "9", "open": "7" },
+    { "id": "AwEICAEPDgECCwoJBAENAw", "score": "34", "mark": "D", "years": "3", "request": "1", "open": "3" },
+    { "id": "LIT465EDF3F", "score": "68", "mark": "A2", "years": "4", "request": "2", "open": "1" },
+    { "id": "AwEICAEPDgECCwoJBAENA1", "score": "30", "mark": "E", "years": "1", "request": "7", "open": "5" }
   ]
 }
